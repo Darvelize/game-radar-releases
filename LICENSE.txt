@@ -1,0 +1,123 @@
+GameRadar — Conditions d'utilisation / Terms of use
+Copyright (c) 2026 Darvelize. Tous droits réservés. All rights reserved.
+Version du 30 septembre 2026 / Version of September 30, 2026
+
+English below.
+
+=============================================================================
+FRANÇAIS
+=============================================================================
+
+En téléchargeant ou en utilisant GameRadar, tu acceptes ces conditions.
+
+1. Utilisation gratuite
+   Tu peux utiliser GameRadar gratuitement, pour un usage personnel et non
+   commercial.
+
+2. Partage
+   Tu peux partager GameRadar, de préférence avec le lien de la page officielle
+   des téléchargements (https://github.com/Darvelize/game-radar-releases), ou en
+   donnant une copie du fichier non modifié, gratuitement. Tu ne peux pas le
+   vendre, le louer, le modifier ni le distribuer modifié.
+
+3. Rétro-ingénierie
+   Tu ne peux pas décompiler ni désassembler GameRadar, sauf dans les cas où la
+   loi l'autorise expressément malgré cette clause.
+
+4. Services de tiers
+   GameRadar utilise tes propres comptes Microsoft (Xbox) et Steam, et des
+   services de Microsoft Corporation et de Valve Corporation, dont certains ne
+   sont pas documentés. Tu restes soumis à leurs conditions d'utilisation.
+   Ces services peuvent changer, limiter ou couper l'accès de GameRadar à tout
+   moment, sans préavis : GameRadar peut alors cesser de fonctionner, en tout ou
+   partie. GameRadar est un projet indépendant, ni affilié à Microsoft ni à
+   Valve, ni approuvé par eux.
+
+5. Absence de garantie
+   GameRadar est fourni « tel quel », sans garantie d'aucune sorte, expresse ou
+   implicite, notamment de bon fonctionnement, de disponibilité, d'exactitude
+   des recommandations ou d'adéquation à un usage particulier.
+
+6. Responsabilité
+   Dans toute la mesure permise par la loi applicable, l'auteur ne pourra être
+   tenu responsable d'aucun dommage résultant de l'utilisation de GameRadar ou
+   de l'impossibilité de l'utiliser, y compris la perte de données ou la
+   suspension d'un compte par un service tiers.
+   Rien dans ces conditions ne limite les droits que la loi t'accorde et
+   auxquels il ne peut être dérogé par contrat, notamment en tant que
+   consommateur.
+
+7. Données personnelles
+   GameRadar n'a aucun serveur : tes données restent sur ton ordinateur. Le
+   détail est dans l'application, Réglages › Confidentialité.
+
+8. Composants tiers
+   GameRadar contient des composants open source, régis par leurs propres
+   licences : voir le fichier THIRD-PARTY-NOTICES.txt (aussi dans
+   l'application, Réglages › À propos).
+
+9. Marques
+   Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une
+   marque de Valve Corporation. Les jaquettes et noms des jeux appartiennent à
+   leurs éditeurs.
+
+10. Droit applicable
+    Ces conditions sont régies par le droit français, sous réserve des
+    dispositions impératives de la loi du pays où tu résides.
+
+=============================================================================
+ENGLISH
+=============================================================================
+
+By downloading or using GameRadar, you accept these terms.
+
+1. Free use
+   You may use GameRadar free of charge, for personal and non-commercial use.
+
+2. Sharing
+   You may share GameRadar, preferably with the link to the official download
+   page (https://github.com/Darvelize/game-radar-releases), or by giving a copy
+   of the unmodified file, free of charge. You may not sell, rent or modify it,
+   nor distribute a modified copy.
+
+3. Reverse engineering
+   You may not decompile or disassemble GameRadar, except where the law
+   expressly allows it notwithstanding this clause.
+
+4. Third-party services
+   GameRadar uses your own Microsoft (Xbox) and Steam accounts, and services of
+   Microsoft Corporation and Valve Corporation, some of them undocumented. You
+   remain bound by their terms of use. These services may change, limit or cut
+   off GameRadar's access at any time, without notice: GameRadar may then stop
+   working, in whole or in part. GameRadar is an independent project, not
+   affiliated with nor endorsed by Microsoft or Valve.
+
+5. No warranty
+   GameRadar is provided "as is", without warranty of any kind, express or
+   implied, including of proper operation, availability, accuracy of the
+   recommendations or fitness for a particular purpose.
+
+6. Liability
+   To the fullest extent permitted by applicable law, the author shall not be
+   liable for any damage resulting from the use of, or inability to use,
+   GameRadar, including loss of data or the suspension of an account by a
+   third-party service.
+   Nothing in these terms limits the rights the law grants you and that cannot
+   be waived by contract, in particular as a consumer.
+
+7. Personal data
+   GameRadar has no server: your data stays on your computer. Details are in
+   the app, Settings › Privacy.
+
+8. Third-party components
+   GameRadar contains open-source components, governed by their own licenses:
+   see the THIRD-PARTY-NOTICES.txt file (also in the app, Settings › About).
+
+9. Trademarks
+   Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a
+   trademark of Valve Corporation. Game covers and names belong to their
+   publishers.
+
+10. Governing law
+    These terms are governed by French law, subject to the mandatory
+    provisions of the law of the country where you live.

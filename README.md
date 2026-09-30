@@ -23,7 +23,7 @@ L'application n'est pas signée (un certificat coûte 150 à 300 $ par an, et ne
 
 ## 🔌 Se connecter (Réglages › Comptes)
 
-- **Xbox** : bouton « Se connecter avec Microsoft ». La page de connexion s'ouvre dans ton navigateur : GameRadar ne voit jamais ton mot de passe. Juste en dessous, choisis ton palier **Game Pass** (Essential, Premium, Ultimate ou PC Game Pass).
+- **Xbox** : bouton « Se connecter avec Microsoft ». La page de connexion s'ouvre dans ton navigateur : GameRadar ne voit jamais ton mot de passe. Microsoft y indique « éditeur non vérifié » : c'est normal pour un projet perso (la vérification est réservée aux entreprises), et GameRadar ne se sert de cet accès que pour lire ton historique de jeux. Juste en dessous, choisis ton palier **Game Pass** (Essential, Premium, Ultimate ou PC Game Pass).
 - **Steam** (si tu y joues) : colle l'adresse de ton profil et ta clé API personnelle.
   - Ton profil doit montrer ses jeux : Steam › Modifier le profil › Confidentialité › « Détails des jeux » : **Public**.
   - La clé s'obtient sur [steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) (nom de domaine : `localhost`). Garde-la pour toi.
@@ -42,6 +42,12 @@ Tout reste **sur ton PC**, dans `%LOCALAPPDATA%\GameRadar` : sessions chiffrées
 ## 🐞 Un souci ?
 
 **Réglages › À propos › « Journal des erreurs »** ouvre le dossier du journal (sans aucun secret : ni mot de passe, ni jeton, ni clé). Envoie le fichier du jour avec ta description, ou ouvre une [issue](../../issues).
+
+## 📜 Conditions et licences
+
+- En utilisant GameRadar, tu acceptes ses [**conditions d'utilisation**](LICENSE.txt) : gratuit pour un usage personnel, partage libre du fichier non modifié, **fourni tel quel, sans garantie**.
+- GameRadar contient des composants open source (Avalonia, .NET, SkiaSharp…) : leurs licences sont dans [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
+- Les deux textes sont aussi dans l'appli : **Réglages › À propos**.
 
 ## ⚠️ À savoir
 
@@ -75,7 +81,7 @@ Only once. The first start is a bit slower: the app prepares its files.
 
 ### 🔌 Signing in (Settings › Accounts)
 
-- **Xbox**: "Sign in with Microsoft" button. The sign-in page opens in your browser: GameRadar never sees your password. Right below, choose your **Game Pass** plan (Essential, Premium, Ultimate or PC Game Pass).
+- **Xbox**: "Sign in with Microsoft" button. The sign-in page opens in your browser: GameRadar never sees your password. Microsoft shows "unverified publisher" there: normal for a personal project (verification is only open to companies), and GameRadar only uses this access to read your game history. Right below, choose your **Game Pass** plan (Essential, Premium, Ultimate or PC Game Pass).
 - **Steam** (if you play there): paste your profile address and your personal API key.
   - Your profile must show its games: Steam › Edit Profile › Privacy Settings › "Game details": **Public**.
   - Get the key at [steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) (domain name: `localhost`). Keep it to yourself.
@@ -95,6 +101,12 @@ Everything stays **on your PC**, in `%LOCALAPPDATA%\GameRadar`: sessions encrypt
 ### 🐞 Something wrong?
 
 **Settings › About › "Error log"** opens the log folder (free of any secret: no password, token or key). Send today's file with your description, or open an [issue](../../issues).
+
+### 📜 Terms and licenses
+
+- By using GameRadar, you accept its [**terms of use**](LICENSE.txt): free for personal use, free sharing of the unmodified file, **provided as is, without warranty**.
+- GameRadar contains open-source components (Avalonia, .NET, SkiaSharp…): their licenses are in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
+- Both texts are also in the app: **Settings › About**.
 
 ### ⚠️ Good to know
 
