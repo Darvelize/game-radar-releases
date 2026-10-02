@@ -1,6 +1,6 @@
 GameRadar — Conditions d'utilisation / Terms of use
 Copyright (c) 2026 Darvelize. Tous droits réservés. All rights reserved.
-Version du 30 septembre 2026 / Version of September 30, 2026
+Version du 2 octobre 2026 / Version of October 2, 2026
 
 English below.
 
@@ -25,13 +25,14 @@ En téléchargeant ou en utilisant GameRadar, tu acceptes ces conditions.
    loi l'autorise expressément malgré cette clause.
 
 4. Services de tiers
-   GameRadar utilise tes propres comptes Microsoft (Xbox) et Steam, et des
-   services de Microsoft Corporation et de Valve Corporation, dont certains ne
-   sont pas documentés. Tu restes soumis à leurs conditions d'utilisation.
+   GameRadar utilise tes propres comptes Microsoft (Xbox), Steam et PlayStation,
+   et des services de Microsoft Corporation, de Valve Corporation et de Sony
+   Interactive Entertainment, dont certains ne sont pas documentés. Tu restes
+   soumis à leurs conditions d'utilisation.
    Ces services peuvent changer, limiter ou couper l'accès de GameRadar à tout
    moment, sans préavis : GameRadar peut alors cesser de fonctionner, en tout ou
-   partie. GameRadar est un projet indépendant, ni affilié à Microsoft ni à
-   Valve, ni approuvé par eux.
+   partie. GameRadar est un projet indépendant, affilié ni à Microsoft, ni à
+   Valve, ni à Sony, et approuvé par aucun d'eux.
 
 5. Absence de garantie
    GameRadar est fourni « tel quel », sans garantie d'aucune sorte, expresse ou
@@ -58,8 +59,8 @@ En téléchargeant ou en utilisant GameRadar, tu acceptes ces conditions.
 
 9. Marques
    Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une
-   marque de Valve Corporation. Les jaquettes et noms des jeux appartiennent à
-   leurs éditeurs.
+   marque de Valve Corporation ; PlayStation est une marque de Sony Interactive
+   Entertainment. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
 
 10. Droit applicable
     Ces conditions sont régies par le droit français, sous réserve des
@@ -85,12 +86,13 @@ By downloading or using GameRadar, you accept these terms.
    expressly allows it notwithstanding this clause.
 
 4. Third-party services
-   GameRadar uses your own Microsoft (Xbox) and Steam accounts, and services of
-   Microsoft Corporation and Valve Corporation, some of them undocumented. You
-   remain bound by their terms of use. These services may change, limit or cut
+   GameRadar uses your own Microsoft (Xbox), Steam and PlayStation accounts, and
+   services of Microsoft Corporation, Valve Corporation and Sony Interactive
+   Entertainment, some of them undocumented. You remain bound by their terms of
+   use. These services may change, limit or cut
    off GameRadar's access at any time, without notice: GameRadar may then stop
    working, in whole or in part. GameRadar is an independent project, not
-   affiliated with nor endorsed by Microsoft or Valve.
+   affiliated with nor endorsed by Microsoft, Valve or Sony.
 
 5. No warranty
    GameRadar is provided "as is", without warranty of any kind, express or
@@ -115,8 +117,8 @@ By downloading or using GameRadar, you accept these terms.
 
 9. Trademarks
    Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a
-   trademark of Valve Corporation. Game covers and names belong to their
-   publishers.
+   trademark of Valve Corporation; PlayStation is a trademark of Sony
+   Interactive Entertainment. Game covers and names belong to their publishers.
 
 10. Governing law
     These terms are governed by French law, subject to the mandatory

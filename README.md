@@ -2,7 +2,7 @@
 
 **🇫🇷 Français** · [🇬🇧 English below](#english)
 
-Des recommandations de jeux **d'après ce que tu as vraiment joué** : tes succès, tes platines, ton temps de jeu sur **Xbox** et **Steam**. GameRadar te propose des jeux de **ton palier Game Pass** ou de la **boutique Steam** qui devraient te plaire. En français et en anglais.
+Des recommandations de jeux **d'après ce que tu as vraiment joué** : tes succès, tes platines, ton temps de jeu sur **Xbox**, **Steam** et **PlayStation**. GameRadar te propose des jeux de **ton palier Game Pass** ou du **catalogue Steam** qui devraient te plaire. En français et en anglais.
 
 ## ⬇️ Télécharger
 
@@ -27,6 +27,8 @@ L'application n'est pas signée (un certificat coûte 150 à 300 $ par an, et ne
 - **Steam** (si tu y joues) : colle l'adresse de ton profil et ta clé API personnelle.
   - Ton profil doit montrer ses jeux : Steam › Modifier le profil › Confidentialité › « Détails des jeux » : **Public**.
   - La clé s'obtient sur [steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) (nom de domaine : `localhost`). Garde-la pour toi.
+- **PlayStation** (si tu y joues) : connecte-toi sur playstation.com, ouvre la page de ton jeton depuis l'appli et colle ce qu'elle affiche. Ce jeton ouvre ta session Sony : garde-le pour toi. GameRadar le garde chiffré sur ton PC.
+- Pas de compte, ou un jeu joué ailleurs (Switch…) ? Ajoute-le à la main : **Historique › « Ajouter un jeu »**.
 
 ## 🧠 Comment il choisit
 
@@ -37,7 +39,7 @@ L'application n'est pas signée (un certificat coûte 150 à 300 $ par an, et ne
 
 ## 🔒 Tes données
 
-Tout reste **sur ton PC**, dans `%LOCALAPPDATA%\GameRadar` : sessions chiffrées par Windows, caches, réglages. GameRadar n'a aucun serveur et ne partage rien. **Réglages › Confidentialité** explique le détail, donne les liens pour retirer son accès à tes comptes Microsoft et Steam, et un bouton pour tout effacer.
+Tout reste **sur ton PC**, dans `%LOCALAPPDATA%\GameRadar` : sessions chiffrées par Windows, caches, réglages. GameRadar n'a aucun serveur et ne partage rien. **Réglages › Confidentialité** explique le détail, donne les liens pour retirer son accès à tes comptes Microsoft, Steam et PlayStation, et un bouton pour tout effacer.
 
 ## 🐞 Un souci ?
 
@@ -52,15 +54,15 @@ Tout reste **sur ton PC**, dans `%LOCALAPPDATA%\GameRadar` : sessions chiffrées
 ## ⚠️ À savoir
 
 - Windows uniquement.
-- GameRadar utilise des services non documentés (historique Xbox Live, catalogue Game Pass) qui peuvent changer sans prévenir.
-- GameRadar est un projet indépendant, non affilié à Microsoft Corporation ni à Valve Corporation, et approuvé par aucune d'elles. Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une marque de Valve Corporation. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
+- GameRadar utilise des services non documentés (historique Xbox Live, PlayStation Network, catalogue Game Pass) qui peuvent changer sans prévenir.
+- GameRadar est un projet indépendant, non affilié à Microsoft Corporation, Valve Corporation ni Sony Interactive Entertainment, et approuvé par aucune d'elles. Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une marque de Valve Corporation ; PlayStation est une marque de Sony Interactive Entertainment. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
 
 ---
 
 <a id="english"></a>
 ## 🇬🇧 English
 
-Game recommendations **based on what you really played**: your achievements, your 100% completions, your playtime on **Xbox** and **Steam**. GameRadar suggests games from **your Game Pass plan** or the **Steam store** that you should enjoy. In English and French.
+Game recommendations **based on what you really played**: your achievements, your 100% completions, your playtime on **Xbox**, **Steam** and **PlayStation**. GameRadar suggests games from **your Game Pass plan** or the **Steam catalog** that you should enjoy. In English and French.
 
 ### ⬇️ Download
 
@@ -85,6 +87,8 @@ Only once. The first start is a bit slower: the app prepares its files.
 - **Steam** (if you play there): paste your profile address and your personal API key.
   - Your profile must show its games: Steam › Edit Profile › Privacy Settings › "Game details": **Public**.
   - Get the key at [steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) (domain name: `localhost`). Keep it to yourself.
+- **PlayStation** (if you play there): sign in on playstation.com, open the page of your token from the app and paste what it shows. This token opens your Sony session: keep it to yourself. GameRadar keeps it encrypted on your PC.
+- No account, or a game played elsewhere (Switch…)? Add it by hand: **History › "Add a game"**.
 - To switch the language: Settings › Preferences › Language.
 
 ### 🧠 How it picks
@@ -96,7 +100,7 @@ Only once. The first start is a bit slower: the app prepares its files.
 
 ### 🔒 Your data
 
-Everything stays **on your PC**, in `%LOCALAPPDATA%\GameRadar`: sessions encrypted by Windows, caches, settings. GameRadar has no server and shares nothing. **Settings › Privacy** gives the details, the links to remove its access to your Microsoft and Steam accounts, and a button to erase everything.
+Everything stays **on your PC**, in `%LOCALAPPDATA%\GameRadar`: sessions encrypted by Windows, caches, settings. GameRadar has no server and shares nothing. **Settings › Privacy** gives the details, the links to remove its access to your Microsoft, Steam and PlayStation accounts, and a button to erase everything.
 
 ### 🐞 Something wrong?
 
@@ -111,5 +115,5 @@ Everything stays **on your PC**, in `%LOCALAPPDATA%\GameRadar`: sessions encrypt
 ### ⚠️ Good to know
 
 - Windows only.
-- GameRadar uses undocumented services (Xbox Live history, Game Pass catalog) that may change without notice.
-- GameRadar is an independent project, not affiliated with nor endorsed by Microsoft Corporation or Valve Corporation. Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a trademark of Valve Corporation. Game covers and names belong to their publishers.
+- GameRadar uses undocumented services (Xbox Live history, PlayStation Network, Game Pass catalog) that may change without notice.
+- GameRadar is an independent project, not affiliated with nor endorsed by Microsoft Corporation, Valve Corporation or Sony Interactive Entertainment. Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a trademark of Valve Corporation; PlayStation is a trademark of Sony Interactive Entertainment. Game covers and names belong to their publishers.
