@@ -59,8 +59,8 @@ En téléchargeant ou en utilisant GameRadar, tu acceptes ces conditions.
 
 9. Marques
    Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une
-   marque de Valve Corporation ; PlayStation est une marque de Sony Interactive
-   Entertainment. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
+   marque de Valve Corporation ; PlayStation et PlayStation Plus sont des
+   marques de Sony Interactive Entertainment. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
 
 10. Droit applicable
     Ces conditions sont régies par le droit français, sous réserve des
@@ -117,8 +117,8 @@ By downloading or using GameRadar, you accept these terms.
 
 9. Trademarks
    Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a
-   trademark of Valve Corporation; PlayStation is a trademark of Sony
-   Interactive Entertainment. Game covers and names belong to their publishers.
+   trademark of Valve Corporation; PlayStation and PlayStation Plus are
+   trademarks of Sony Interactive Entertainment. Game covers and names belong to their publishers.
 
 10. Governing law
     These terms are governed by French law, subject to the mandatory
