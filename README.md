@@ -2,7 +2,7 @@
 
 **🇫🇷 Français** · [🇬🇧 English below](#english)
 
-Des recommandations de jeux **d'après ce que tu as vraiment joué** : tes succès, tes platines, ton temps de jeu sur **Xbox**, **Steam** et **PlayStation**. GameRadar te propose des jeux de **ton palier Game Pass** ou du **catalogue Steam** qui devraient te plaire. En français et en anglais.
+Des recommandations de jeux **d'après ce que tu as vraiment joué** : tes succès, tes platines, ton temps de jeu sur **Xbox**, **Steam**, **PlayStation**, **GOG** et **EA**. GameRadar te propose des jeux de **ton palier Game Pass** ou **PS Plus**, ou des **catalogues Steam et GOG**, qui devraient te plaire. En français et en anglais.
 
 ## ⬇️ Télécharger
 
@@ -28,6 +28,8 @@ L'application n'est pas signée (un certificat coûte 150 à 300 $ par an, et ne
   - Ton profil doit montrer ses jeux : Steam › Modifier le profil › Confidentialité › « Détails des jeux » : **Public**.
   - La clé s'obtient sur [steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) (nom de domaine : `localhost`). Garde-la pour toi.
 - **PlayStation** (si tu y joues) : connecte-toi sur playstation.com, ouvre la page de ton jeton depuis l'appli et colle ce qu'elle affiche. Ce jeton ouvre ta session Sony : garde-le pour toi. GameRadar le garde chiffré sur ton PC.
+- **EA** (si tu joues dans l'appli EA, EA Play compris) : connecte-toi sur ea.com, ouvre « la page EA » depuis l'appli, copie tout ce qu'elle affiche (Ctrl+A, Ctrl+C) et colle-le. Ce jeton vaut 4 heures et n'est jamais enregistré : recolle-le quand tu veux mettre ton historique EA à jour.
+- **GOG** (si tu y joues) : indique le nom de ton profil (ou son adresse gog.com/u/…). Ton profil doit être public : dans les réglages de confidentialité de ton compte GOG, rends-le visible par tout le monde. Aucune connexion ni clé.
 - Pas de compte, ou un jeu joué ailleurs (Switch…) ? Ajoute-le à la main : **Historique › « Ajouter un jeu »**.
 
 ## 🧠 Comment il choisit
@@ -54,15 +56,15 @@ Tout reste **sur ton PC**, dans `%LOCALAPPDATA%\GameRadar` : sessions chiffrées
 ## ⚠️ À savoir
 
 - Windows uniquement.
-- GameRadar utilise des services non documentés (historique Xbox Live, PlayStation Network, catalogue Game Pass) qui peuvent changer sans prévenir.
-- GameRadar est un projet indépendant, non affilié à Microsoft Corporation, Valve Corporation ni Sony Interactive Entertainment, et approuvé par aucune d'elles. Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une marque de Valve Corporation ; PlayStation est une marque de Sony Interactive Entertainment. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
+- GameRadar utilise des services non documentés (historique Xbox Live, PlayStation Network, appli EA, profil et catalogue GOG, catalogues Game Pass et PS Plus) qui peuvent changer sans prévenir.
+- GameRadar est un projet indépendant, non affilié à Microsoft Corporation, Valve Corporation, Sony Interactive Entertainment, GOG sp. z o.o. ni Electronic Arts Inc., et approuvé par aucune d'elles. Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une marque de Valve Corporation ; PlayStation et PlayStation Plus sont des marques de Sony Interactive Entertainment ; GOG et GOG.com sont des marques de GOG sp. z o.o. ; EA et EA Play sont des marques d'Electronic Arts Inc. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
 
 ---
 
 <a id="english"></a>
 ## 🇬🇧 English
 
-Game recommendations **based on what you really played**: your achievements, your 100% completions, your playtime on **Xbox**, **Steam** and **PlayStation**. GameRadar suggests games from **your Game Pass plan** or the **Steam catalog** that you should enjoy. In English and French.
+Game recommendations **based on what you really played**: your achievements, your 100% completions, your playtime on **Xbox**, **Steam**, **PlayStation**, **GOG** and **EA**. GameRadar suggests games from **your Game Pass** or **PS Plus plan**, or from the **Steam and GOG catalogs**, that you should enjoy. In English and French.
 
 ### ⬇️ Download
 
@@ -88,6 +90,8 @@ Only once. The first start is a bit slower: the app prepares its files.
   - Your profile must show its games: Steam › Edit Profile › Privacy Settings › "Game details": **Public**.
   - Get the key at [steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) (domain name: `localhost`). Keep it to yourself.
 - **PlayStation** (if you play there): sign in on playstation.com, open the page of your token from the app and paste what it shows. This token opens your Sony session: keep it to yourself. GameRadar keeps it encrypted on your PC.
+- **EA** (if you play in the EA app, EA Play included): sign in to ea.com, open "the EA page" from the app, copy everything it shows (Ctrl+A, Ctrl+C) and paste it. This token lasts 4 hours and is never saved: paste it again whenever you want to update your EA history.
+- **GOG** (if you play there): enter your profile name (or its address gog.com/u/…). Your profile must be public: in the privacy settings of your GOG account, make it visible to everyone. No sign-in nor key.
 - No account, or a game played elsewhere (Switch…)? Add it by hand: **History › "Add a game"**.
 - To switch the language: Settings › Preferences › Language.
 
@@ -115,5 +119,5 @@ Everything stays **on your PC**, in `%LOCALAPPDATA%\GameRadar`: sessions encrypt
 ### ⚠️ Good to know
 
 - Windows only.
-- GameRadar uses undocumented services (Xbox Live history, PlayStation Network, Game Pass catalog) that may change without notice.
-- GameRadar is an independent project, not affiliated with nor endorsed by Microsoft Corporation, Valve Corporation or Sony Interactive Entertainment. Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a trademark of Valve Corporation; PlayStation is a trademark of Sony Interactive Entertainment. Game covers and names belong to their publishers.
+- GameRadar uses undocumented services (Xbox Live history, PlayStation Network, EA app, GOG profile and catalog, Game Pass and PS Plus catalogs) that may change without notice.
+- GameRadar is an independent project, not affiliated with nor endorsed by Microsoft Corporation, Valve Corporation, Sony Interactive Entertainment, GOG sp. z o.o. or Electronic Arts Inc. Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a trademark of Valve Corporation; PlayStation and PlayStation Plus are trademarks of Sony Interactive Entertainment; GOG and GOG.com are trademarks of GOG sp. z o.o.; EA and EA Play are trademarks of Electronic Arts Inc. Game covers and names belong to their publishers.
