@@ -1,6 +1,6 @@
 GameRadar — Conditions d'utilisation / Terms of use
 Copyright (c) 2026 Darvelize. Tous droits réservés. All rights reserved.
-Version du 2 octobre 2026 / Version of October 2, 2026
+Version du 7 octobre 2026 / Version of October 7, 2026
 
 English below.
 
@@ -25,14 +25,15 @@ En téléchargeant ou en utilisant GameRadar, tu acceptes ces conditions.
    loi l'autorise expressément malgré cette clause.
 
 4. Services de tiers
-   GameRadar utilise tes propres comptes Microsoft (Xbox), Steam et PlayStation,
-   et des services de Microsoft Corporation, de Valve Corporation et de Sony
-   Interactive Entertainment, dont certains ne sont pas documentés. Tu restes
+   GameRadar utilise tes propres comptes Microsoft (Xbox), Steam, PlayStation et
+   EA, ton profil GOG public, et des services de Microsoft Corporation, de Valve
+   Corporation, de Sony Interactive Entertainment, de GOG sp. z o.o. et
+   d'Electronic Arts Inc., dont certains ne sont pas documentés. Tu restes
    soumis à leurs conditions d'utilisation.
    Ces services peuvent changer, limiter ou couper l'accès de GameRadar à tout
    moment, sans préavis : GameRadar peut alors cesser de fonctionner, en tout ou
    partie. GameRadar est un projet indépendant, affilié ni à Microsoft, ni à
-   Valve, ni à Sony, et approuvé par aucun d'eux.
+   Valve, ni à Sony, ni à GOG, ni à EA, et approuvé par aucun d'eux.
 
 5. Absence de garantie
    GameRadar est fourni « tel quel », sans garantie d'aucune sorte, expresse ou
@@ -60,7 +61,9 @@ En téléchargeant ou en utilisant GameRadar, tu acceptes ces conditions.
 9. Marques
    Xbox et Game Pass sont des marques de Microsoft Corporation ; Steam est une
    marque de Valve Corporation ; PlayStation et PlayStation Plus sont des
-   marques de Sony Interactive Entertainment. Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
+   marques de Sony Interactive Entertainment ; GOG et GOG.com sont des marques
+   de GOG sp. z o.o. ; EA et EA Play sont des marques d'Electronic Arts Inc.
+   Les jaquettes et noms des jeux appartiennent à leurs éditeurs.
 
 10. Droit applicable
     Ces conditions sont régies par le droit français, sous réserve des
@@ -86,13 +89,14 @@ By downloading or using GameRadar, you accept these terms.
    expressly allows it notwithstanding this clause.
 
 4. Third-party services
-   GameRadar uses your own Microsoft (Xbox), Steam and PlayStation accounts, and
-   services of Microsoft Corporation, Valve Corporation and Sony Interactive
-   Entertainment, some of them undocumented. You remain bound by their terms of
-   use. These services may change, limit or cut
-   off GameRadar's access at any time, without notice: GameRadar may then stop
-   working, in whole or in part. GameRadar is an independent project, not
-   affiliated with nor endorsed by Microsoft, Valve or Sony.
+   GameRadar uses your own Microsoft (Xbox), Steam, PlayStation and EA accounts,
+   your public GOG profile, and services of Microsoft Corporation, Valve
+   Corporation, Sony Interactive Entertainment, GOG sp. z o.o. and Electronic
+   Arts Inc., some of them undocumented. You remain bound by their terms of
+   use. These services may change, limit or cut off GameRadar's access at any
+   time, without notice: GameRadar may then stop working, in whole or in part.
+   GameRadar is an independent project, not affiliated with nor endorsed by
+   Microsoft, Valve, Sony, GOG or EA.
 
 5. No warranty
    GameRadar is provided "as is", without warranty of any kind, express or
@@ -118,7 +122,9 @@ By downloading or using GameRadar, you accept these terms.
 9. Trademarks
    Xbox and Game Pass are trademarks of Microsoft Corporation; Steam is a
    trademark of Valve Corporation; PlayStation and PlayStation Plus are
-   trademarks of Sony Interactive Entertainment. Game covers and names belong to their publishers.
+   trademarks of Sony Interactive Entertainment; GOG and GOG.com are trademarks
+   of GOG sp. z o.o.; EA and EA Play are trademarks of Electronic Arts Inc.
+   Game covers and names belong to their publishers.
 
 10. Governing law
     These terms are governed by French law, subject to the mandatory
